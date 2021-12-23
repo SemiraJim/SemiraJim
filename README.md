@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Semira
+- 👋 Hi, I’m Semira
 - 👀 I’m interested in Anything tech
 - 🌱 I’m currently learning Google Cloud 
 - 📫 How to reach me ...
